@@ -1,5 +1,4 @@
 // This data is temporary and exists do test the table functions of the 'Users' page.
-
 export const userColumns = [
     { field: "id", headerName: "ID", width: 70 },
     {
