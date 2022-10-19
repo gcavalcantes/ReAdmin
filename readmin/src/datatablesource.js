@@ -15,16 +15,17 @@ export const userColumns = [
       },
     },
     {
-      field: "email",
+      field:"email", 
       headerName: "Email",
       width: 230,
     },
-  
+
     {
       field: "age",
       headerName: "Age",
       width: 100,
     },
+
     {
       field: "status",
       headerName: "Status",
