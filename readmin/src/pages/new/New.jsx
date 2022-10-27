@@ -25,7 +25,7 @@ const New = () => {
             <form>
               <div className="formInput">
                 <label htmlFor="file">
-                  <DriveFolderUploadOutlinedIcon />
+                  Profile image: <DriveFolderUploadOutlinedIcon className="icon"/>
                 </label>
                 <input type="file" id="file" style={{display:"none"}}/>
               </div>
