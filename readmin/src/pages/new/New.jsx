@@ -30,7 +30,7 @@ const New = ({ inputs, title }) => {
             <form>
               <div className="formInput">
                 <label htmlFor="file">
-                  Profile image:{" "}
+                  Profile image:
                   <DriveFolderUploadOutlinedIcon className="icon" />
                 </label>
                 <input
