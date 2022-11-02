@@ -11,6 +11,10 @@ const Orders = () => {
         <Sidebar/>
         <div className="orderContainer">
             <Navbar/>
+            <div className="listContainer">
+              Latest orders
+              <Table></Table>
+            </div>
         </div>
     </div>
   )
